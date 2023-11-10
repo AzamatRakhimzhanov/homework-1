@@ -1,0 +1,148 @@
+/* style.css */
+
+html, body {
+    width: 1920px;
+    height: 2473px;
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+
+
+h1 {
+    color: #EB2A2A; /* красный цвет текста */
+    font-family: 'Times New Roman', serif; /* шрифт Times New Roman */
+    font-size: 96px; /* размер шрифта */
+    font-style: normal; /* стиль шрифта */
+    font-weight: 700; /* жирность шрифта */
+    line-height: normal; /* стандартный межстрочный интервал */
+}
+
+h2 {
+    color: #ED9B20; /* оранжевый цвет текста */
+    font-family: 'Times New Roman', serif; /* шрифт Times New Roman */
+    font-size: 64px; /* размер шрифта */
+    font-style: normal; /* стиль шрифта */
+    font-weight: 700; /* жирность шрифта */
+    line-height: normal; /* стандартный межстрочный интервал */
+}
+
+h3 {
+    color: #E7C61B; /* желтый цвет текста */
+    font-family: 'Times New Roman', serif; /* шрифт Times New Roman */
+    font-size: 48px; /* размер шрифта */
+    font-style: normal; /* стиль шрифта */
+    font-weight: 700; /* жирность шрифта */
+    line-height: normal; /* стандартный межстрочный интервал */
+}
+
+h4 {
+    color: #35C91C;
+    font-family: Times New Roman;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h5 {
+    color: #13B5CB;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h6 {
+    color: #B53CDF;
+    font-family: Times New Roman;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+p {
+    color: #FFF; /* белый цвет текста */
+    font-family: 'Times New Roman', serif; /* шрифт Times New Roman */
+    font-size: 36px; /* размер шрифта */
+    font-style: normal; /* стиль шрифта */
+    font-weight: 400; /* нормальная жирность шрифта */
+    line-height: normal; /* стандартный межстрочный интервал */
+    width: 1904px; /* ширина параграфа */
+}
+
+.highlight-yellow {
+    color: #FFED00; /* желтый цвет текста */
+    font-family: 'Times New Roman', serif; /* шрифт Times New Roman */
+    font-size: 36px; /* размер шрифта */
+    font-style: italic; /* курсивный стиль шрифта */
+    font-weight: 400; /* нормальная жирность шрифта */
+    line-height: normal; /* стандартный межстрочный интервал */
+}
+
+.highlight-red {
+    color: #EB2A2A; /* красный цвет текста */
+    font-family: 'Times New Roman', serif; /* шрифт Times New Roman */
+    font-size: 36px; /* размер шрифта */
+    font-style: normal; /* обычный стиль шрифта */
+    font-weight: 700; /* жирный шрифт */
+    line-height: normal; /* стандартный межстрочный интервал */
+}
+
+.custom-image1 {
+    width: 1200px; /* ширина изображения */
+    height: 820px; /* высота изображения */
+    flex-shrink: 0; /* предотвращение сжатия элемента в flex контейнере */
+}
+
+.highlight-blue {
+    color: #13B5CB;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.highlight-green {
+    color: #35C91C;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.custom-image2 {
+    width: 720px;
+    height: 284px;
+    flex-shrink: 0;
+}
+
+.custom-image3 {
+    width: 347.111px;
+    height: 284px;
+    flex-shrink: 0;
+}
+
+.highlight-violet {
+    color: #B53BDF;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.highlight-orange {
+    color: #ED9B20;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
